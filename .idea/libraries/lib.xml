@@ -1,0 +1,65 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/elasticsearch-core-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/jackson-core-2.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lucene-join-8.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/rank-eval-client-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/elasticsearch-lz4-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/jackson-dataformat-yaml-2.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lucene-analyzers-common-8.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/log4j-core-2.17.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lucene-queryparser-8.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/elasticsearch-rest-high-level-client-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lucene-memory-8.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/kafka-connect-elasticsearch-14.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lz4-java-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/elasticsearch-secure-sm-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/elasticsearch-x-content-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lang-mustache-client-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/jackson-dataformat-cbor-2.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/elasticsearch-rest-client-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lucene-backward-codecs-8.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lucene-grouping-8.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lucene-misc-8.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/jackson-annotations-2.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/parent-join-client-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/httpcore-4.4.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/common-utils-7.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/jna-5.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/HdrHistogram-2.1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lucene-core-8.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/t-digest-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lucene-suggest-8.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/httpcore-nio-4.4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/mapper-extras-client-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lucene-spatial3d-8.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/aggs-matrix-stats-client-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/jackson-dataformat-smile-2.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/elasticsearch-java-8.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lucene-queries-8.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/jopt-simple-5.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/hppc-0.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lucene-sandbox-8.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/compiler-0.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/httpasyncclient-4.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/elasticsearch-plugin-classloader-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/parsson-1.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/elasticsearch-geo-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/elasticsearch-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/elasticsearch-cli-7.17.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/joda-time-2.12.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/lucene-highlighter-8.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/httpclient-4.5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/jakarta.json-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/jackson-databind-2.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/confluentinc-kafka-connect-elasticsearch-14.1.2/lib/log4j-api-2.17.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
