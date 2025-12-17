@@ -1,0 +1,11 @@
+order_id,customer_id,order_total_usd,make,model,delivery_city,delivery_company,delivery_address
+901,3401,98231.77,Lynxora,X9-Prime,Phnom Penh,BlueOrbit Logistics,88 Monivong Blvd Tower A
+902,1289,15320.45,Teslair,Epsilon-7,Siem Reap,Angkor Rapid,Room 12 Sky Angkor Street
+903,7782,450001.99,Voltra,NeoFlux,Rattanakiri,Highland Cargo,Plot 7 Red Soil Road
+904,5510,7999.01,Aerion,CloudMini,Kampot,Pepper Express,No 3 Riverside Old Market
+905,6622,120340.88,Orbito,ZR-88,Battambang,Lotus Freight,45 West Ring Road
+906,9901,654321.00,Zenith,Xenon GT,Sihanoukville,OceanLink Delivery,Pier 9 Deep Sea Port
+907,4321,23789.55,Kairo,MK-II,Takeo,GreenWay Movers,House 19 Rice Field Lane
+908,8765,88888.88,NovaCore,Stellar One,Pursat,Mekong Swift,Block C Lakeview District
+909,2199,300450.12,Hyperion,Atlas-5,Kratie,RiverRoute Co,12 Dolphin Bend Mekong Rd
+910,7007,42109.67,Solvex,MonoQ,Koh Kong,Borderline Logistics,Unit 5 Mountain Pass Highway

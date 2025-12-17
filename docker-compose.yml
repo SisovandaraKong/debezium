@@ -189,8 +189,8 @@ services:
       - kafka-fullstack
 
   debezium-kafka-connect:
-    build: .
-    image: debezium-kafka-connect
+    build: . # specify Dockerfile in the current directory
+    image: debezium-kafka-connect # debezium/connect:2.7.3.Final, or use confluentinc/cp-kafka-connect:7.7.7
     container_name: debezium-kafka-connect
     depends_on:
       - kafka-1
