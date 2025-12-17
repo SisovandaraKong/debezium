@@ -32,6 +32,21 @@ services:
     networks:
       - kafka-fullstack
 
+
+# docker exec -it cdc-mongodb mongo -u istad -p qwerqwer --eval 'rs.initiate()'
+  cdc-mongodb:
+    image: mongo:7.0
+    container_name: cdc-mongodb
+    ports:
+      - "27168:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: istad
+      MONGO_INITDB_ROOT_PASSWORD: qwerqwer
+    volumes:
+      - mongo_data_cdc:/data/db
+    networks:
+      - kafka-fullstack
+
   kafka-1:
     image: confluentinc/cp-kafka:7.8.0
     container_name: kafka-1
@@ -347,6 +362,8 @@ volumes:
   debezium_plugins:
   debezium_data:
   schema_registry_data:
+  mongo_data_cdc:
+
 
 networks:
   kafka-fullstack:

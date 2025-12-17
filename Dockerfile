@@ -6,12 +6,12 @@ ENV PLUGIN_DIR=/kafka/connect/plugins
 ENV KAFKA_CONNECT_ES_DIR=$PLUGIN_DIR/kafka-connect-elasticsearch
 ENV KAFKA_CONNECT_SPOOLDIR_DIR=$PLUGIN_DIR/kafka-connect-spooldir
 ENV KAFKA_CONNECT_JDBC_SOURCE_DIR=$PLUGIN_DIR/kafka-connect-jdbc-source
+ENV KAFKA_CONNECT_MONGODB_DIR=$PLUGIN_DIR/kafka-connect-mongodb
 
 # Create the plugin directory if it doesn't exist
 RUN mkdir -p $PLUGIN_DIR
 
-# Download necessary JARs and place them in the plugin directory
-# ref: https://debezium.io/documentation/reference/stable/configuration/avro.html#:~:text=A%20Debezium%20connector%20works%20in,Applies%20configured%20transformations.
+# Download necessary JARs - CORRECTED ORDER
 RUN curl -L -o $PLUGIN_DIR/kafka-connect-avro-converter.jar \
     https://packages.confluent.io/maven/io/confluent/kafka-connect-avro-converter/7.3.0/kafka-connect-avro-converter-7.3.0.jar && \
     curl -L -o $PLUGIN_DIR/kafka-connect-avro-data.jar \
@@ -59,6 +59,11 @@ RUN curl -L -o $PLUGIN_DIR/kafka-connect-avro-converter.jar \
     curl -L -o $PLUGIN_DIR/logredactor-metrics.jar \
     https://repo1.maven.org/maven2/io/confluent/logredactor-metrics/7.3.0/logredactor-metrics-7.3.0.jar
 
+# Install MongoDB Kafka Connector in its own directory (BEST PRACTICE)
+RUN mkdir -p $KAFKA_CONNECT_MONGODB_DIR && \
+    curl -L -o $KAFKA_CONNECT_MONGODB_DIR/mongo-kafka-connect-1.13.0-all.jar \
+    https://search.maven.org/remotecontent?filepath=org/mongodb/kafka/mongo-kafka-connect/1.13.0/mongo-kafka-connect-1.13.0-all.jar
+
 RUN mkdir $KAFKA_CONNECT_ES_DIR
 COPY ./confluentinc-kafka-connect-elasticsearch-14.1.2/lib/ $KAFKA_CONNECT_ES_DIR
 
@@ -68,20 +73,15 @@ COPY ./jcustenborder-kafka-connect-spooldir-2.0.66/lib/ $KAFKA_CONNECT_SPOOLDIR_
 RUN mkdir $KAFKA_CONNECT_JDBC_SOURCE_DIR
 COPY ./confluentinc-kafka-connect-jdbc-10.8.4/lib/ $KAFKA_CONNECT_JDBC_SOURCE_DIR
 
-# Old Config without XML driver
-# Deploy PostgreSQL and Oracle JDBC Driver 
-# RUN cd /kafka/libs && \
-#     curl -sO https://jdbc.postgresql.org/download/postgresql-42.7.3.jar && \
-#     curl https://maven.xwiki.org/externals/com/oracle/jdbc/ojdbc8/12.2.0.1/ojdbc8-12.2.0.1.jar -o ojdbc8-12.2.0.1.jar
-
-# New Config for XML driver
 # Deploy PostgreSQL and Oracle JDBC Driver with XML Support
 RUN cd /kafka/libs && \
     curl -sO https://jdbc.postgresql.org/download/postgresql-42.7.3.jar && \
-    curl -sO https://repo1.maven.org/maven2/com/oracle/database/jdbc/ojdbc8/19.8.0.0/ojdbc8-19.8.0.0.jar -o ojdbc8-12.2.0.1.jar && \
-    curl -sO https://repo1.maven.org/maven2/com/oracle/database/xml/xdb/19.8.0.0/xdb-19.8.0.0.jar -o xdb-19.8.0.0.jar && \
-    curl -sO https://repo1.maven.org/maven2/com/oracle/database/xml/xmlparserv2/19.8.0.0/xmlparserv2-19.8.0.0.jar -o xmlparserv2-19.8.0.0.jar
+    curl -sO https://repo1.maven.org/maven2/com/oracle/database/jdbc/ojdbc8/19.8.0.0/ojdbc8-19.8.0.0.jar && \
+    curl -sO https://repo1.maven.org/maven2/com/oracle/database/xml/xdb/19.8.0.0/xdb-19.8.0.0.jar && \
+    curl -sO https://repo1.maven.org/maven2/com/oracle/database/xml/xmlparserv2/19.8.0.0/xmlparserv2-19.8.0.0.jar
 
 # Install the required library files
 RUN curl https://download.oracle.com/otn_software/linux/instantclient/2112000/el9/instantclient-basic-linux.x64-21.12.0.0.0dbru.el9.zip -o /tmp/ic.zip && \
     unzip /tmp/ic.zip -d /usr/share/java/debezium-connector-oracle/
+
+USER kafka
