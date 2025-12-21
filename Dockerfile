@@ -80,8 +80,10 @@ RUN cd /kafka/libs && \
     curl -sO https://repo1.maven.org/maven2/com/oracle/database/xml/xdb/19.8.0.0/xdb-19.8.0.0.jar && \
     curl -sO https://repo1.maven.org/maven2/com/oracle/database/xml/xmlparserv2/19.8.0.0/xmlparserv2-19.8.0.0.jar
 
-# Install the required library files
+# Install Oracle Instant Client
 RUN curl https://download.oracle.com/otn_software/linux/instantclient/2112000/el9/instantclient-basic-linux.x64-21.12.0.0.0dbru.el9.zip -o /tmp/ic.zip && \
-    unzip /tmp/ic.zip -d /usr/share/java/debezium-connector-oracle/
+    unzip /tmp/ic.zip -d /usr/share/java/debezium-connector-oracle/ && \
+    rm /tmp/ic.zip
+
 
 USER kafka

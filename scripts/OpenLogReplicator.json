@@ -1,0 +1,40 @@
+{
+  "version": "1.8.7",
+  "log-level": 3,
+  "source": [
+    {
+      "alias": "SOURCE",
+      "name": "ORACLE",
+      "reader": {
+        "type": "online",
+        "path-mapping": [
+          "/opt/oracle/oradata", "/opt/oradata",
+          "/opt/oracle/fra", "/opt/fra"
+        ],
+        "user": "c##dbzuser",
+        "password": "dbz",
+        "server": "//oracle19c:1521/ORCLPDB1"
+      },
+      "format": {
+        "type": "json",
+        "column": 2,
+        "db": 3,
+        "interval-dts": 9,
+        "interval-ytm": 4,
+        "message": 2,
+        "rid": 1,
+        "schema": 7
+      }
+    }
+  ],
+  "target": [
+    {
+      "alias": "DEBEZIUM",
+      "source": "SOURCE",
+      "writer": {
+        "type": "network",
+        "uri": "0.0.0.0:8080"
+      }
+    }
+  ]
+}

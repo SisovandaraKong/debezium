@@ -1,0 +1,1145 @@
+2025-12-19 04:29:50 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:29:50 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:29:50 ERROR 30001 bad JSON, invalid "version" value: 1.7.0, expected: 1.8.7
+2025-12-19 04:29:51 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:29:51 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:29:51 ERROR 30001 bad JSON, invalid "version" value: 1.7.0, expected: 1.8.7
+2025-12-19 04:29:52 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:29:52 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:29:52 ERROR 30001 bad JSON, invalid "version" value: 1.7.0, expected: 1.8.7
+2025-12-19 04:29:53 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:29:53 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:29:53 ERROR 30001 bad JSON, invalid "version" value: 1.7.0, expected: 1.8.7
+2025-12-19 04:29:54 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:29:54 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:29:54 ERROR 30001 bad JSON, invalid "version" value: 1.7.0, expected: 1.8.7
+2025-12-19 04:29:56 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:29:56 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:29:56 ERROR 30001 bad JSON, invalid "version" value: 1.7.0, expected: 1.8.7
+2025-12-19 04:30:00 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:30:00 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:30:00 ERROR 30001 bad JSON, invalid "version" value: 1.7.0, expected: 1.8.7
+2025-12-19 04:30:07 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:30:07 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:30:07 ERROR 30001 bad JSON, invalid "version" value: 1.7.0, expected: 1.8.7
+2025-12-19 04:30:20 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:30:20 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:30:20 ERROR 30001 bad JSON, invalid "version" value: 1.7.0, expected: 1.8.7
+2025-12-19 04:30:46 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:30:46 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:30:46 ERROR 30001 bad JSON, invalid "version" value: 1.7.0, expected: 1.8.7
+2025-12-19 04:31:37 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:31:37 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:31:37 ERROR 30001 bad JSON, invalid "version" value: 1.7.0, expected: 1.8.7
+2025-12-19 04:32:37 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:32:37 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:32:38 ERROR 30001 bad JSON, invalid "version" value: 1.7.0, expected: 1.8.7
+2025-12-19 04:33:29 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:33:29 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:33:29 INFO  00000 adding source: S1
+2025-12-19 04:33:29 INFO  00000 adding target: T1
+2025-12-19 04:33:29 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:33:29 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:29 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:29 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:33:29 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:33:29 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:33:29 ERROR 10014 stacktrace for thread: 140657483597504
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fed604aa403]
+./OpenLogReplicator(+0x1b38235) [0x557189f75235]
+./OpenLogReplicator(+0x1a63efb) [0x557189ea0efb]
+./OpenLogReplicator(+0x1a63f52) [0x557189ea0f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fed5a27adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fed5afa29bb]
+./OpenLogReplicator(+0x24464bc) [0x55718a8834bc]
+./OpenLogReplicator(+0x2446bae) [0x55718a883bae]
+./OpenLogReplicator(+0x19f986d) [0x557189e3686d]
+./OpenLogReplicator(+0x1a658ed) [0x557189ea28ed]
+./OpenLogReplicator(+0x1a6760f) [0x557189ea460f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fed5a264ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fed5a264d65]
+./OpenLogReplicator(+0x19f8941) [0x557189e35941]
+
+2025-12-19 04:33:29 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:33:29 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:33:29 INFO  00000 adding source: S1
+2025-12-19 04:33:29 INFO  00000 adding target: T1
+2025-12-19 04:33:29 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:33:29 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:29 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:29 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:33:29 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:33:29 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:33:29 ERROR 10014 stacktrace for thread: 139962977588928
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f4bac09a403]
+./OpenLogReplicator(+0x1b38235) [0x5601efc96235]
+./OpenLogReplicator(+0x1a63efb) [0x5601efbc1efb]
+./OpenLogReplicator(+0x1a63f52) [0x5601efbc1f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f4ba5e7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f4ba6ba29bb]
+./OpenLogReplicator(+0x24464bc) [0x5601f05a44bc]
+./OpenLogReplicator(+0x2446bae) [0x5601f05a4bae]
+./OpenLogReplicator(+0x19f986d) [0x5601efb5786d]
+./OpenLogReplicator(+0x1a658ed) [0x5601efbc38ed]
+./OpenLogReplicator(+0x1a6760f) [0x5601efbc560f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f4ba5e64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f4ba5e64d65]
+./OpenLogReplicator(+0x19f8941) [0x5601efb56941]
+
+2025-12-19 04:33:30 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:33:30 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:33:30 INFO  00000 adding source: S1
+2025-12-19 04:33:30 INFO  00000 adding target: T1
+2025-12-19 04:33:30 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:33:30 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:30 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:30 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:33:30 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:33:30 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:33:30 ERROR 10014 stacktrace for thread: 139863870019264
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f3498c43403]
+./OpenLogReplicator(+0x1b38235) [0x55e1644c5235]
+./OpenLogReplicator(+0x1a63efb) [0x55e1643f0efb]
+./OpenLogReplicator(+0x1a63f52) [0x55e1643f0f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f3492a7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f34937a29bb]
+./OpenLogReplicator(+0x24464bc) [0x55e164dd34bc]
+./OpenLogReplicator(+0x2446bae) [0x55e164dd3bae]
+./OpenLogReplicator(+0x19f986d) [0x55e16438686d]
+./OpenLogReplicator(+0x1a658ed) [0x55e1643f28ed]
+./OpenLogReplicator(+0x1a6760f) [0x55e1643f460f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f3492a64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f3492a64d65]
+./OpenLogReplicator(+0x19f8941) [0x55e164385941]
+
+2025-12-19 04:33:31 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:33:31 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:33:31 INFO  00000 adding source: S1
+2025-12-19 04:33:31 INFO  00000 adding target: T1
+2025-12-19 04:33:31 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:33:31 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:31 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:31 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:33:31 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:33:31 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:33:31 ERROR 10014 stacktrace for thread: 140662469998272
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fee8917c403]
+./OpenLogReplicator(+0x1b38235) [0x560a0e190235]
+./OpenLogReplicator(+0x1a63efb) [0x560a0e0bbefb]
+./OpenLogReplicator(+0x1a63f52) [0x560a0e0bbf52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fee82e7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fee83ba29bb]
+./OpenLogReplicator(+0x24464bc) [0x560a0ea9e4bc]
+./OpenLogReplicator(+0x2446bae) [0x560a0ea9ebae]
+./OpenLogReplicator(+0x19f986d) [0x560a0e05186d]
+./OpenLogReplicator(+0x1a658ed) [0x560a0e0bd8ed]
+./OpenLogReplicator(+0x1a6760f) [0x560a0e0bf60f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fee82e64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fee82e64d65]
+./OpenLogReplicator(+0x19f8941) [0x560a0e050941]
+
+2025-12-19 04:33:32 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:33:32 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:33:32 INFO  00000 adding source: S1
+2025-12-19 04:33:32 INFO  00000 adding target: T1
+2025-12-19 04:33:32 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:33:32 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:32 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:32 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:33:32 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:33:32 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:33:32 ERROR 10014 stacktrace for thread: 140330191570624
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fa12bc1d403]
+./OpenLogReplicator(+0x1b38235) [0x5638add8f235]
+./OpenLogReplicator(+0x1a63efb) [0x5638adcbaefb]
+./OpenLogReplicator(+0x1a63f52) [0x5638adcbaf52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fa12587adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fa1265a29bb]
+./OpenLogReplicator(+0x24464bc) [0x5638ae69d4bc]
+./OpenLogReplicator(+0x2446bae) [0x5638ae69dbae]
+./OpenLogReplicator(+0x19f986d) [0x5638adc5086d]
+./OpenLogReplicator(+0x1a658ed) [0x5638adcbc8ed]
+./OpenLogReplicator(+0x1a6760f) [0x5638adcbe60f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fa125864ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fa125864d65]
+./OpenLogReplicator(+0x19f8941) [0x5638adc4f941]
+
+2025-12-19 04:33:34 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:33:34 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:33:34 INFO  00000 adding source: S1
+2025-12-19 04:33:34 INFO  00000 adding target: T1
+2025-12-19 04:33:34 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:33:34 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:34 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:34 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:33:34 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:33:34 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:33:34 ERROR 10014 stacktrace for thread: 139632797415104
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7efecbd11403]
+./OpenLogReplicator(+0x1b38235) [0x55f9777f7235]
+./OpenLogReplicator(+0x1a63efb) [0x55f977722efb]
+./OpenLogReplicator(+0x1a63f52) [0x55f977722f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7efec5a7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7efec67a29bb]
+./OpenLogReplicator(+0x24464bc) [0x55f9781054bc]
+./OpenLogReplicator(+0x2446bae) [0x55f978105bae]
+./OpenLogReplicator(+0x19f986d) [0x55f9776b886d]
+./OpenLogReplicator(+0x1a658ed) [0x55f9777248ed]
+./OpenLogReplicator(+0x1a6760f) [0x55f97772660f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7efec5a64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7efec5a64d65]
+./OpenLogReplicator(+0x19f8941) [0x55f9776b7941]
+
+2025-12-19 04:33:37 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:33:37 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:33:37 INFO  00000 adding source: S1
+2025-12-19 04:33:37 INFO  00000 adding target: T1
+2025-12-19 04:33:37 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:33:37 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:37 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:37 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:33:37 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:33:37 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:33:37 ERROR 10014 stacktrace for thread: 139637668144832
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7effedb91403]
+./OpenLogReplicator(+0x1b38235) [0x55a027094235]
+./OpenLogReplicator(+0x1a63efb) [0x55a026fbfefb]
+./OpenLogReplicator(+0x1a63f52) [0x55a026fbff52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7effe787adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7effe85a29bb]
+./OpenLogReplicator(+0x24464bc) [0x55a0279a24bc]
+./OpenLogReplicator(+0x2446bae) [0x55a0279a2bae]
+./OpenLogReplicator(+0x19f986d) [0x55a026f5586d]
+./OpenLogReplicator(+0x1a658ed) [0x55a026fc18ed]
+./OpenLogReplicator(+0x1a6760f) [0x55a026fc360f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7effe7864ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7effe7864d65]
+./OpenLogReplicator(+0x19f8941) [0x55a026f54941]
+
+2025-12-19 04:33:44 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:33:44 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:33:44 INFO  00000 adding source: S1
+2025-12-19 04:33:44 INFO  00000 adding target: T1
+2025-12-19 04:33:44 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:33:44 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:44 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:44 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:33:44 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:33:44 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:33:44 ERROR 10014 stacktrace for thread: 139982972589760
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f50544d3403]
+./OpenLogReplicator(+0x1b38235) [0x55745e92c235]
+./OpenLogReplicator(+0x1a63efb) [0x55745e857efb]
+./OpenLogReplicator(+0x1a63f52) [0x55745e857f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f504e27adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f504efa29bb]
+./OpenLogReplicator(+0x24464bc) [0x55745f23a4bc]
+./OpenLogReplicator(+0x2446bae) [0x55745f23abae]
+./OpenLogReplicator(+0x19f986d) [0x55745e7ed86d]
+./OpenLogReplicator(+0x1a658ed) [0x55745e8598ed]
+./OpenLogReplicator(+0x1a6760f) [0x55745e85b60f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f504e264ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f504e264d65]
+./OpenLogReplicator(+0x19f8941) [0x55745e7ec941]
+
+2025-12-19 04:33:57 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:33:57 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:33:57 INFO  00000 adding source: S1
+2025-12-19 04:33:57 INFO  00000 adding target: T1
+2025-12-19 04:33:57 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:33:57 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:57 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:33:57 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:33:57 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:33:57 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:33:57 ERROR 10014 stacktrace for thread: 140041815905984
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f5e07a28403]
+./OpenLogReplicator(+0x1b38235) [0x55e5c0b72235]
+./OpenLogReplicator(+0x1a63efb) [0x55e5c0a9defb]
+./OpenLogReplicator(+0x1a63f52) [0x55e5c0a9df52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f5e0187adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f5e025a29bb]
+./OpenLogReplicator(+0x24464bc) [0x55e5c14804bc]
+./OpenLogReplicator(+0x2446bae) [0x55e5c1480bae]
+./OpenLogReplicator(+0x19f986d) [0x55e5c0a3386d]
+./OpenLogReplicator(+0x1a658ed) [0x55e5c0a9f8ed]
+./OpenLogReplicator(+0x1a6760f) [0x55e5c0aa160f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f5e01864ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f5e01864d65]
+./OpenLogReplicator(+0x19f8941) [0x55e5c0a32941]
+
+2025-12-19 04:34:23 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:34:23 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:34:23 INFO  00000 adding source: S1
+2025-12-19 04:34:23 INFO  00000 adding target: T1
+2025-12-19 04:34:23 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:34:23 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:34:23 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:34:23 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:34:23 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:34:23 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:34:23 ERROR 10014 stacktrace for thread: 139822206088896
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f2ae5761403]
+./OpenLogReplicator(+0x1b38235) [0x559f88fdf235]
+./OpenLogReplicator(+0x1a63efb) [0x559f88f0aefb]
+./OpenLogReplicator(+0x1a63f52) [0x559f88f0af52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f2adf47adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f2ae01a29bb]
+./OpenLogReplicator(+0x24464bc) [0x559f898ed4bc]
+./OpenLogReplicator(+0x2446bae) [0x559f898edbae]
+./OpenLogReplicator(+0x19f986d) [0x559f88ea086d]
+./OpenLogReplicator(+0x1a658ed) [0x559f88f0c8ed]
+./OpenLogReplicator(+0x1a6760f) [0x559f88f0e60f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f2adf464ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f2adf464d65]
+./OpenLogReplicator(+0x19f8941) [0x559f88e9f941]
+
+2025-12-19 04:35:14 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:35:14 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:35:14 INFO  00000 adding source: S1
+2025-12-19 04:35:14 INFO  00000 adding target: T1
+2025-12-19 04:35:14 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:35:14 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:35:14 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:35:14 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:35:14 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:35:14 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:35:14 ERROR 10014 stacktrace for thread: 140486675232448
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fc59a7f2403]
+./OpenLogReplicator(+0x1b38235) [0x563b7dd71235]
+./OpenLogReplicator(+0x1a63efb) [0x563b7dc9cefb]
+./OpenLogReplicator(+0x1a63f52) [0x563b7dc9cf52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fc59447adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fc5951a29bb]
+./OpenLogReplicator(+0x24464bc) [0x563b7e67f4bc]
+./OpenLogReplicator(+0x2446bae) [0x563b7e67fbae]
+./OpenLogReplicator(+0x19f986d) [0x563b7dc3286d]
+./OpenLogReplicator(+0x1a658ed) [0x563b7dc9e8ed]
+./OpenLogReplicator(+0x1a6760f) [0x563b7dca060f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fc594464ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fc594464d65]
+./OpenLogReplicator(+0x19f8941) [0x563b7dc31941]
+
+2025-12-19 04:36:04 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:36:04 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:36:04 INFO  00000 adding source: S1
+2025-12-19 04:36:04 INFO  00000 adding target: T1
+2025-12-19 04:36:04 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:36:04 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:04 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:04 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:36:04 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:36:04 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:36:04 ERROR 10014 stacktrace for thread: 140433444734656
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fb9361fa403]
+./OpenLogReplicator(+0x1b38235) [0x564146512235]
+./OpenLogReplicator(+0x1a63efb) [0x56414643defb]
+./OpenLogReplicator(+0x1a63f52) [0x56414643df52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fb92fe7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fb930ba29bb]
+./OpenLogReplicator(+0x24464bc) [0x564146e204bc]
+./OpenLogReplicator(+0x2446bae) [0x564146e20bae]
+./OpenLogReplicator(+0x19f986d) [0x5641463d386d]
+./OpenLogReplicator(+0x1a658ed) [0x56414643f8ed]
+./OpenLogReplicator(+0x1a6760f) [0x56414644160f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fb92fe64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fb92fe64d65]
+./OpenLogReplicator(+0x19f8941) [0x5641463d2941]
+
+2025-12-19 04:36:04 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:36:04 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:36:04 INFO  00000 adding source: S1
+2025-12-19 04:36:04 INFO  00000 adding target: T1
+2025-12-19 04:36:04 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:36:04 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:04 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:04 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:36:04 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:36:04 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:36:04 ERROR 10014 stacktrace for thread: 140221852960448
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f87f1dbf403]
+./OpenLogReplicator(+0x1b38235) [0x563530cce235]
+./OpenLogReplicator(+0x1a63efb) [0x563530bf9efb]
+./OpenLogReplicator(+0x1a63f52) [0x563530bf9f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f87eba7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f87ec7a29bb]
+./OpenLogReplicator(+0x24464bc) [0x5635315dc4bc]
+./OpenLogReplicator(+0x2446bae) [0x5635315dcbae]
+./OpenLogReplicator(+0x19f986d) [0x563530b8f86d]
+./OpenLogReplicator(+0x1a658ed) [0x563530bfb8ed]
+./OpenLogReplicator(+0x1a6760f) [0x563530bfd60f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f87eba64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f87eba64d65]
+./OpenLogReplicator(+0x19f8941) [0x563530b8e941]
+
+2025-12-19 04:36:05 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:36:05 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:36:05 INFO  00000 adding source: S1
+2025-12-19 04:36:05 INFO  00000 adding target: T1
+2025-12-19 04:36:05 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:36:05 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:05 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:05 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:36:05 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:36:05 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:36:05 ERROR 10014 stacktrace for thread: 140624039446208
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fe596651403]
+./OpenLogReplicator(+0x1b38235) [0x5609a89da235]
+./OpenLogReplicator(+0x1a63efb) [0x5609a8905efb]
+./OpenLogReplicator(+0x1a63f52) [0x5609a8905f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fe59047adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fe5911a29bb]
+./OpenLogReplicator(+0x24464bc) [0x5609a92e84bc]
+./OpenLogReplicator(+0x2446bae) [0x5609a92e8bae]
+./OpenLogReplicator(+0x19f986d) [0x5609a889b86d]
+./OpenLogReplicator(+0x1a658ed) [0x5609a89078ed]
+./OpenLogReplicator(+0x1a6760f) [0x5609a890960f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fe590464ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fe590464d65]
+./OpenLogReplicator(+0x19f8941) [0x5609a889a941]
+
+2025-12-19 04:36:05 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:36:05 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:36:05 INFO  00000 adding source: S1
+2025-12-19 04:36:05 INFO  00000 adding target: T1
+2025-12-19 04:36:05 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:36:05 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:05 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:05 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:36:05 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:36:05 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:36:05 ERROR 10014 stacktrace for thread: 140382770566848
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fad69b57403]
+./OpenLogReplicator(+0x1b38235) [0x55731c86c235]
+./OpenLogReplicator(+0x1a63efb) [0x55731c797efb]
+./OpenLogReplicator(+0x1a63f52) [0x55731c797f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fad6387adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fad645a29bb]
+./OpenLogReplicator(+0x24464bc) [0x55731d17a4bc]
+./OpenLogReplicator(+0x2446bae) [0x55731d17abae]
+./OpenLogReplicator(+0x19f986d) [0x55731c72d86d]
+./OpenLogReplicator(+0x1a658ed) [0x55731c7998ed]
+./OpenLogReplicator(+0x1a6760f) [0x55731c79b60f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fad63864ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fad63864d65]
+./OpenLogReplicator(+0x19f8941) [0x55731c72c941]
+
+2025-12-19 04:36:06 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:36:06 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:36:06 INFO  00000 adding source: S1
+2025-12-19 04:36:06 INFO  00000 adding target: T1
+2025-12-19 04:36:06 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:36:06 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:06 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:06 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:36:06 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:36:06 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:36:06 ERROR 10014 stacktrace for thread: 140066905966272
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f63dea78403]
+./OpenLogReplicator(+0x1b38235) [0x55cb6ef8b235]
+./OpenLogReplicator(+0x1a63efb) [0x55cb6eeb6efb]
+./OpenLogReplicator(+0x1a63f52) [0x55cb6eeb6f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f63d887adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f63d95a29bb]
+./OpenLogReplicator(+0x24464bc) [0x55cb6f8994bc]
+./OpenLogReplicator(+0x2446bae) [0x55cb6f899bae]
+./OpenLogReplicator(+0x19f986d) [0x55cb6ee4c86d]
+./OpenLogReplicator(+0x1a658ed) [0x55cb6eeb88ed]
+./OpenLogReplicator(+0x1a6760f) [0x55cb6eeba60f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f63d8864ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f63d8864d65]
+./OpenLogReplicator(+0x19f8941) [0x55cb6ee4b941]
+
+2025-12-19 04:36:08 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:36:08 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:36:08 INFO  00000 adding source: S1
+2025-12-19 04:36:08 INFO  00000 adding target: T1
+2025-12-19 04:36:08 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:36:08 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:08 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:08 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:36:08 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:36:08 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:36:08 ERROR 10014 stacktrace for thread: 140420039952064
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fb6178b7403]
+./OpenLogReplicator(+0x1b38235) [0x559a9d1ff235]
+./OpenLogReplicator(+0x1a63efb) [0x559a9d12aefb]
+./OpenLogReplicator(+0x1a63f52) [0x559a9d12af52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fb61167adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fb6123a29bb]
+./OpenLogReplicator(+0x24464bc) [0x559a9db0d4bc]
+./OpenLogReplicator(+0x2446bae) [0x559a9db0dbae]
+./OpenLogReplicator(+0x19f986d) [0x559a9d0c086d]
+./OpenLogReplicator(+0x1a658ed) [0x559a9d12c8ed]
+./OpenLogReplicator(+0x1a6760f) [0x559a9d12e60f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fb611664ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fb611664d65]
+./OpenLogReplicator(+0x19f8941) [0x559a9d0bf941]
+
+2025-12-19 04:36:12 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:36:12 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:36:12 INFO  00000 adding source: S1
+2025-12-19 04:36:12 INFO  00000 adding target: T1
+2025-12-19 04:36:12 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:36:12 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:12 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:12 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:36:12 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:36:12 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:36:12 ERROR 10014 stacktrace for thread: 140647388092096
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7feb068dc403]
+./OpenLogReplicator(+0x1b38235) [0x55cfa0b9b235]
+./OpenLogReplicator(+0x1a63efb) [0x55cfa0ac6efb]
+./OpenLogReplicator(+0x1a63f52) [0x55cfa0ac6f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7feb0067adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7feb013a29bb]
+./OpenLogReplicator(+0x24464bc) [0x55cfa14a94bc]
+./OpenLogReplicator(+0x2446bae) [0x55cfa14a9bae]
+./OpenLogReplicator(+0x19f986d) [0x55cfa0a5c86d]
+./OpenLogReplicator(+0x1a658ed) [0x55cfa0ac88ed]
+./OpenLogReplicator(+0x1a6760f) [0x55cfa0aca60f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7feb00664ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7feb00664d65]
+./OpenLogReplicator(+0x19f8941) [0x55cfa0a5b941]
+
+2025-12-19 04:36:18 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:36:18 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:36:18 INFO  00000 adding source: S1
+2025-12-19 04:36:18 INFO  00000 adding target: T1
+2025-12-19 04:36:18 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:36:18 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:18 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:18 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:36:18 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:36:18 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:36:18 ERROR 10014 stacktrace for thread: 139654998185664
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f03f7189403]
+./OpenLogReplicator(+0x1b38235) [0x55579a69e235]
+./OpenLogReplicator(+0x1a63efb) [0x55579a5c9efb]
+./OpenLogReplicator(+0x1a63f52) [0x55579a5c9f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f03f0e7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f03f1ba29bb]
+./OpenLogReplicator(+0x24464bc) [0x55579afac4bc]
+./OpenLogReplicator(+0x2446bae) [0x55579afacbae]
+./OpenLogReplicator(+0x19f986d) [0x55579a55f86d]
+./OpenLogReplicator(+0x1a658ed) [0x55579a5cb8ed]
+./OpenLogReplicator(+0x1a6760f) [0x55579a5cd60f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f03f0e64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f03f0e64d65]
+./OpenLogReplicator(+0x19f8941) [0x55579a55e941]
+
+2025-12-19 04:36:31 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:36:31 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:36:31 INFO  00000 adding source: S1
+2025-12-19 04:36:31 INFO  00000 adding target: T1
+2025-12-19 04:36:31 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:36:31 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:31 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:31 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:36:31 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:36:31 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:36:31 ERROR 10014 stacktrace for thread: 140375069689536
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fab9eb32403]
+./OpenLogReplicator(+0x1b38235) [0x5574e939a235]
+./OpenLogReplicator(+0x1a63efb) [0x5574e92c5efb]
+./OpenLogReplicator(+0x1a63f52) [0x5574e92c5f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fab9887adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fab995a29bb]
+./OpenLogReplicator(+0x24464bc) [0x5574e9ca84bc]
+./OpenLogReplicator(+0x2446bae) [0x5574e9ca8bae]
+./OpenLogReplicator(+0x19f986d) [0x5574e925b86d]
+./OpenLogReplicator(+0x1a658ed) [0x5574e92c78ed]
+./OpenLogReplicator(+0x1a6760f) [0x5574e92c960f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fab98864ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fab98864d65]
+./OpenLogReplicator(+0x19f8941) [0x5574e925a941]
+
+2025-12-19 04:36:57 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:36:57 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:36:57 INFO  00000 adding source: S1
+2025-12-19 04:36:57 INFO  00000 adding target: T1
+2025-12-19 04:36:57 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:36:57 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:57 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:36:57 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:36:57 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:36:57 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:36:57 ERROR 10014 stacktrace for thread: 140411847448256
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fb42ed13403]
+./OpenLogReplicator(+0x1b38235) [0x55b7d5246235]
+./OpenLogReplicator(+0x1a63efb) [0x55b7d5171efb]
+./OpenLogReplicator(+0x1a63f52) [0x55b7d5171f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fb428a7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fb4297a29bb]
+./OpenLogReplicator(+0x24464bc) [0x55b7d5b544bc]
+./OpenLogReplicator(+0x2446bae) [0x55b7d5b54bae]
+./OpenLogReplicator(+0x19f986d) [0x55b7d510786d]
+./OpenLogReplicator(+0x1a658ed) [0x55b7d51738ed]
+./OpenLogReplicator(+0x1a6760f) [0x55b7d517560f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fb428a64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fb428a64d65]
+./OpenLogReplicator(+0x19f8941) [0x55b7d5106941]
+
+2025-12-19 04:37:49 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:37:49 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:37:49 INFO  00000 adding source: S1
+2025-12-19 04:37:49 INFO  00000 adding target: T1
+2025-12-19 04:37:49 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:37:49 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:37:49 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:37:49 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:37:49 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:37:49 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:37:49 ERROR 10014 stacktrace for thread: 139815042275008
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f293a67e403]
+./OpenLogReplicator(+0x1b38235) [0x563363f79235]
+./OpenLogReplicator(+0x1a63efb) [0x563363ea4efb]
+./OpenLogReplicator(+0x1a63f52) [0x563363ea4f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f293447adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f29351a29bb]
+./OpenLogReplicator(+0x24464bc) [0x5633648874bc]
+./OpenLogReplicator(+0x2446bae) [0x563364887bae]
+./OpenLogReplicator(+0x19f986d) [0x563363e3a86d]
+./OpenLogReplicator(+0x1a658ed) [0x563363ea68ed]
+./OpenLogReplicator(+0x1a6760f) [0x563363ea860f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f2934464ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f2934464d65]
+./OpenLogReplicator(+0x19f8941) [0x563363e39941]
+
+2025-12-19 04:38:49 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:38:49 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:38:49 INFO  00000 adding source: S1
+2025-12-19 04:38:49 INFO  00000 adding target: T1
+2025-12-19 04:38:49 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:38:49 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:38:49 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:38:49 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:38:49 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:38:49 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:38:49 ERROR 10014 stacktrace for thread: 139903609968320
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f3dd9eb4403]
+./OpenLogReplicator(+0x1b38235) [0x5603b0367235]
+./OpenLogReplicator(+0x1a63efb) [0x5603b0292efb]
+./OpenLogReplicator(+0x1a63f52) [0x5603b0292f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f3dd3c7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f3dd49a29bb]
+./OpenLogReplicator(+0x24464bc) [0x5603b0c754bc]
+./OpenLogReplicator(+0x2446bae) [0x5603b0c75bae]
+./OpenLogReplicator(+0x19f986d) [0x5603b022886d]
+./OpenLogReplicator(+0x1a658ed) [0x5603b02948ed]
+./OpenLogReplicator(+0x1a6760f) [0x5603b029660f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f3dd3c64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f3dd3c64d65]
+./OpenLogReplicator(+0x19f8941) [0x5603b0227941]
+
+2025-12-19 04:39:49 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:39:49 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:39:49 INFO  00000 adding source: S1
+2025-12-19 04:39:49 INFO  00000 adding target: T1
+2025-12-19 04:39:49 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:39:49 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:39:49 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:39:49 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:39:49 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:39:49 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:39:49 ERROR 10014 stacktrace for thread: 139677444806336
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f09316df403]
+./OpenLogReplicator(+0x1b38235) [0x55e7b460b235]
+./OpenLogReplicator(+0x1a63efb) [0x55e7b4536efb]
+./OpenLogReplicator(+0x1a63f52) [0x55e7b4536f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f092b47adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f092c1a29bb]
+./OpenLogReplicator(+0x24464bc) [0x55e7b4f194bc]
+./OpenLogReplicator(+0x2446bae) [0x55e7b4f19bae]
+./OpenLogReplicator(+0x19f986d) [0x55e7b44cc86d]
+./OpenLogReplicator(+0x1a658ed) [0x55e7b45388ed]
+./OpenLogReplicator(+0x1a6760f) [0x55e7b453a60f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f092b464ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f092b464d65]
+./OpenLogReplicator(+0x19f8941) [0x55e7b44cb941]
+
+2025-12-19 04:40:49 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:40:49 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:40:49 INFO  00000 adding source: S1
+2025-12-19 04:40:49 INFO  00000 adding target: T1
+2025-12-19 04:40:49 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:40:49 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:40:49 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:40:49 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:40:49 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:40:49 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:40:49 ERROR 10014 stacktrace for thread: 139806560343744
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f2741508403]
+./OpenLogReplicator(+0x1b38235) [0x562962995235]
+./OpenLogReplicator(+0x1a63efb) [0x5629628c0efb]
+./OpenLogReplicator(+0x1a63f52) [0x5629628c0f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f273b27adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f273bfa29bb]
+./OpenLogReplicator(+0x24464bc) [0x5629632a34bc]
+./OpenLogReplicator(+0x2446bae) [0x5629632a3bae]
+./OpenLogReplicator(+0x19f986d) [0x56296285686d]
+./OpenLogReplicator(+0x1a658ed) [0x5629628c28ed]
+./OpenLogReplicator(+0x1a6760f) [0x5629628c460f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f273b264ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f273b264d65]
+./OpenLogReplicator(+0x19f8941) [0x562962855941]
+
+2025-12-19 04:41:50 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:41:50 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:41:50 INFO  00000 adding source: S1
+2025-12-19 04:41:50 INFO  00000 adding target: T1
+2025-12-19 04:41:50 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:41:50 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:41:50 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:41:50 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:41:50 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:41:50 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:41:50 ERROR 10014 stacktrace for thread: 139897692989120
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f3c78d4b403]
+./OpenLogReplicator(+0x1b38235) [0x55c681a9e235]
+./OpenLogReplicator(+0x1a63efb) [0x55c6819c9efb]
+./OpenLogReplicator(+0x1a63f52) [0x55c6819c9f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f3c72a7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f3c737a29bb]
+./OpenLogReplicator(+0x24464bc) [0x55c6823ac4bc]
+./OpenLogReplicator(+0x2446bae) [0x55c6823acbae]
+./OpenLogReplicator(+0x19f986d) [0x55c68195f86d]
+./OpenLogReplicator(+0x1a658ed) [0x55c6819cb8ed]
+./OpenLogReplicator(+0x1a6760f) [0x55c6819cd60f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f3c72a64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f3c72a64d65]
+./OpenLogReplicator(+0x19f8941) [0x55c68195e941]
+
+2025-12-19 04:42:50 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:42:50 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:42:50 INFO  00000 adding source: S1
+2025-12-19 04:42:50 INFO  00000 adding target: T1
+2025-12-19 04:42:50 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:42:50 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:42:50 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:42:50 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:42:50 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:42:50 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:42:50 ERROR 10014 stacktrace for thread: 140471851247296
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fc227457403]
+./OpenLogReplicator(+0x1b38235) [0x564a45648235]
+./OpenLogReplicator(+0x1a63efb) [0x564a45573efb]
+./OpenLogReplicator(+0x1a63f52) [0x564a45573f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fc22127adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fc221fa29bb]
+./OpenLogReplicator(+0x24464bc) [0x564a45f564bc]
+./OpenLogReplicator(+0x2446bae) [0x564a45f56bae]
+./OpenLogReplicator(+0x19f986d) [0x564a4550986d]
+./OpenLogReplicator(+0x1a658ed) [0x564a455758ed]
+./OpenLogReplicator(+0x1a6760f) [0x564a4557760f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fc221264ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fc221264d65]
+./OpenLogReplicator(+0x19f8941) [0x564a45508941]
+
+2025-12-19 04:43:50 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:43:50 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:43:50 INFO  00000 adding source: S1
+2025-12-19 04:43:50 INFO  00000 adding target: T1
+2025-12-19 04:43:50 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:43:50 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:43:50 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:43:50 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:43:50 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:43:50 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:43:50 ERROR 10014 stacktrace for thread: 140333803001536
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fa2036c0403]
+./OpenLogReplicator(+0x1b38235) [0x5558de249235]
+./OpenLogReplicator(+0x1a63efb) [0x5558de174efb]
+./OpenLogReplicator(+0x1a63f52) [0x5558de174f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fa1fd47adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fa1fe1a29bb]
+./OpenLogReplicator(+0x24464bc) [0x5558deb574bc]
+./OpenLogReplicator(+0x2446bae) [0x5558deb57bae]
+./OpenLogReplicator(+0x19f986d) [0x5558de10a86d]
+./OpenLogReplicator(+0x1a658ed) [0x5558de1768ed]
+./OpenLogReplicator(+0x1a6760f) [0x5558de17860f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fa1fd464ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fa1fd464d65]
+./OpenLogReplicator(+0x19f8941) [0x5558de109941]
+
+2025-12-19 04:44:50 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:44:50 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:44:50 INFO  00000 adding source: S1
+2025-12-19 04:44:50 INFO  00000 adding target: T1
+2025-12-19 04:44:50 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:44:50 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:44:50 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:44:50 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:44:50 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:44:50 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:44:50 ERROR 10014 stacktrace for thread: 140335519815360
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fa269586403]
+./OpenLogReplicator(+0x1b38235) [0x55c58f3e3235]
+./OpenLogReplicator(+0x1a63efb) [0x55c58f30eefb]
+./OpenLogReplicator(+0x1a63f52) [0x55c58f30ef52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fa26327adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fa263fa29bb]
+./OpenLogReplicator(+0x24464bc) [0x55c58fcf14bc]
+./OpenLogReplicator(+0x2446bae) [0x55c58fcf1bae]
+./OpenLogReplicator(+0x19f986d) [0x55c58f2a486d]
+./OpenLogReplicator(+0x1a658ed) [0x55c58f3108ed]
+./OpenLogReplicator(+0x1a6760f) [0x55c58f31260f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fa263264ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fa263264d65]
+./OpenLogReplicator(+0x19f8941) [0x55c58f2a3941]
+
+2025-12-19 04:45:51 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:45:51 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:45:51 INFO  00000 adding source: S1
+2025-12-19 04:45:51 INFO  00000 adding target: T1
+2025-12-19 04:45:51 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:45:51 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:45:51 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:45:51 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:45:51 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:45:51 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:45:51 ERROR 10014 stacktrace for thread: 140367785481920
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fa9ecf01403]
+./OpenLogReplicator(+0x1b38235) [0x561404d62235]
+./OpenLogReplicator(+0x1a63efb) [0x561404c8defb]
+./OpenLogReplicator(+0x1a63f52) [0x561404c8df52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fa9e6c7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fa9e79a29bb]
+./OpenLogReplicator(+0x24464bc) [0x5614056704bc]
+./OpenLogReplicator(+0x2446bae) [0x561405670bae]
+./OpenLogReplicator(+0x19f986d) [0x561404c2386d]
+./OpenLogReplicator(+0x1a658ed) [0x561404c8f8ed]
+./OpenLogReplicator(+0x1a6760f) [0x561404c9160f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fa9e6c64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fa9e6c64d65]
+./OpenLogReplicator(+0x19f8941) [0x561404c22941]
+
+2025-12-19 04:46:51 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:46:51 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:46:51 INFO  00000 adding source: S1
+2025-12-19 04:46:51 INFO  00000 adding target: T1
+2025-12-19 04:46:51 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:46:51 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:46:51 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:46:51 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:46:51 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:46:51 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:46:51 ERROR 10014 stacktrace for thread: 139908327675584
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f3ef2b54403]
+./OpenLogReplicator(+0x1b38235) [0x55d37efa9235]
+./OpenLogReplicator(+0x1a63efb) [0x55d37eed4efb]
+./OpenLogReplicator(+0x1a63f52) [0x55d37eed4f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f3eec87adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f3eed5a29bb]
+./OpenLogReplicator(+0x24464bc) [0x55d37f8b74bc]
+./OpenLogReplicator(+0x2446bae) [0x55d37f8b7bae]
+./OpenLogReplicator(+0x19f986d) [0x55d37ee6a86d]
+./OpenLogReplicator(+0x1a658ed) [0x55d37eed68ed]
+./OpenLogReplicator(+0x1a6760f) [0x55d37eed860f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f3eec864ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f3eec864d65]
+./OpenLogReplicator(+0x19f8941) [0x55d37ee69941]
+
+2025-12-19 04:47:51 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:47:51 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:47:51 INFO  00000 adding source: S1
+2025-12-19 04:47:51 INFO  00000 adding target: T1
+2025-12-19 04:47:51 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:47:51 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:47:51 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:47:51 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:47:51 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:47:51 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:47:51 ERROR 10014 stacktrace for thread: 140292649535168
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f986e135403]
+./OpenLogReplicator(+0x1b38235) [0x5643592a1235]
+./OpenLogReplicator(+0x1a63efb) [0x5643591ccefb]
+./OpenLogReplicator(+0x1a63f52) [0x5643591ccf52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f9867e7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f9868ba29bb]
+./OpenLogReplicator(+0x24464bc) [0x564359baf4bc]
+./OpenLogReplicator(+0x2446bae) [0x564359bafbae]
+./OpenLogReplicator(+0x19f986d) [0x56435916286d]
+./OpenLogReplicator(+0x1a658ed) [0x5643591ce8ed]
+./OpenLogReplicator(+0x1a6760f) [0x5643591d060f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f9867e64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f9867e64d65]
+./OpenLogReplicator(+0x19f8941) [0x564359161941]
+
+2025-12-19 04:48:52 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:48:52 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:48:52 INFO  00000 adding source: S1
+2025-12-19 04:48:52 INFO  00000 adding target: T1
+2025-12-19 04:48:52 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:48:52 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:48:52 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:48:52 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:48:52 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:48:52 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:48:52 ERROR 10014 stacktrace for thread: 140346933425856
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fa5120ef403]
+./OpenLogReplicator(+0x1b38235) [0x55f940125235]
+./OpenLogReplicator(+0x1a63efb) [0x55f940050efb]
+./OpenLogReplicator(+0x1a63f52) [0x55f940050f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fa50be7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fa50cba29bb]
+./OpenLogReplicator(+0x24464bc) [0x55f940a334bc]
+./OpenLogReplicator(+0x2446bae) [0x55f940a33bae]
+./OpenLogReplicator(+0x19f986d) [0x55f93ffe686d]
+./OpenLogReplicator(+0x1a658ed) [0x55f9400528ed]
+./OpenLogReplicator(+0x1a6760f) [0x55f94005460f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fa50be64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fa50be64d65]
+./OpenLogReplicator(+0x19f8941) [0x55f93ffe5941]
+
+2025-12-19 04:49:52 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:49:52 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:49:52 INFO  00000 adding source: S1
+2025-12-19 04:49:52 INFO  00000 adding target: T1
+2025-12-19 04:49:52 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:49:52 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:49:52 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:49:52 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:49:52 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:49:52 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:49:52 ERROR 10014 stacktrace for thread: 140387453544128
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fae80c6c403]
+./OpenLogReplicator(+0x1b38235) [0x558f55a07235]
+./OpenLogReplicator(+0x1a63efb) [0x558f55932efb]
+./OpenLogReplicator(+0x1a63f52) [0x558f55932f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fae7aa7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fae7b7a29bb]
+./OpenLogReplicator(+0x24464bc) [0x558f563154bc]
+./OpenLogReplicator(+0x2446bae) [0x558f56315bae]
+./OpenLogReplicator(+0x19f986d) [0x558f558c886d]
+./OpenLogReplicator(+0x1a658ed) [0x558f559348ed]
+./OpenLogReplicator(+0x1a6760f) [0x558f5593660f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fae7aa64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fae7aa64d65]
+./OpenLogReplicator(+0x19f8941) [0x558f558c7941]
+
+2025-12-19 04:50:52 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:50:52 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:50:52 INFO  00000 adding source: S1
+2025-12-19 04:50:52 INFO  00000 adding target: T1
+2025-12-19 04:50:52 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:50:52 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:50:52 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:50:52 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:50:52 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:50:52 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:50:52 ERROR 10014 stacktrace for thread: 139627732080320
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7efd9d7ec403]
+./OpenLogReplicator(+0x1b38235) [0x55adcf9f3235]
+./OpenLogReplicator(+0x1a63efb) [0x55adcf91eefb]
+./OpenLogReplicator(+0x1a63f52) [0x55adcf91ef52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7efd9747adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7efd981a29bb]
+./OpenLogReplicator(+0x24464bc) [0x55add03014bc]
+./OpenLogReplicator(+0x2446bae) [0x55add0301bae]
+./OpenLogReplicator(+0x19f986d) [0x55adcf8b486d]
+./OpenLogReplicator(+0x1a658ed) [0x55adcf9208ed]
+./OpenLogReplicator(+0x1a6760f) [0x55adcf92260f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7efd97464ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7efd97464d65]
+./OpenLogReplicator(+0x19f8941) [0x55adcf8b3941]
+
+2025-12-19 04:51:52 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:51:52 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:51:52 INFO  00000 adding source: S1
+2025-12-19 04:51:52 INFO  00000 adding target: T1
+2025-12-19 04:51:52 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:51:52 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:51:52 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:51:52 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:51:52 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:51:52 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:51:52 ERROR 10014 stacktrace for thread: 140616570631872
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fe3d8dda403]
+./OpenLogReplicator(+0x1b38235) [0x564f8a5b4235]
+./OpenLogReplicator(+0x1a63efb) [0x564f8a4dfefb]
+./OpenLogReplicator(+0x1a63f52) [0x564f8a4dff52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fe3d2a7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fe3d37a29bb]
+./OpenLogReplicator(+0x24464bc) [0x564f8aec24bc]
+./OpenLogReplicator(+0x2446bae) [0x564f8aec2bae]
+./OpenLogReplicator(+0x19f986d) [0x564f8a47586d]
+./OpenLogReplicator(+0x1a658ed) [0x564f8a4e18ed]
+./OpenLogReplicator(+0x1a6760f) [0x564f8a4e360f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fe3d2a64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fe3d2a64d65]
+./OpenLogReplicator(+0x19f8941) [0x564f8a474941]
+
+2025-12-19 04:52:53 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:52:53 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:52:53 INFO  00000 adding source: S1
+2025-12-19 04:52:53 INFO  00000 adding target: T1
+2025-12-19 04:52:53 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:52:53 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:52:53 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:52:53 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:52:53 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:52:53 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:52:53 ERROR 10014 stacktrace for thread: 140658198697664
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7fed8a80f403]
+./OpenLogReplicator(+0x1b38235) [0x5647e1c8e235]
+./OpenLogReplicator(+0x1a63efb) [0x5647e1bb9efb]
+./OpenLogReplicator(+0x1a63f52) [0x5647e1bb9f52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7fed8447adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7fed851a29bb]
+./OpenLogReplicator(+0x24464bc) [0x5647e259c4bc]
+./OpenLogReplicator(+0x2446bae) [0x5647e259cbae]
+./OpenLogReplicator(+0x19f986d) [0x5647e1b4f86d]
+./OpenLogReplicator(+0x1a658ed) [0x5647e1bbb8ed]
+./OpenLogReplicator(+0x1a6760f) [0x5647e1bbd60f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7fed84464ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7fed84464d65]
+./OpenLogReplicator(+0x19f8941) [0x5647e1b4e941]
+
+2025-12-19 04:53:53 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-19 04:53:53 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-19 04:53:53 INFO  00000 adding source: S1
+2025-12-19 04:53:53 INFO  00000 adding target: T1
+2025-12-19 04:53:53 ERROR 10059 Kafka message: Unsupported value "SSL" for configuration property "security.protocol": OpenSSL not available at build time
+2025-12-19 04:53:53 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:53:53 INFO  00000 connecting to the database instance of ORA1 to //oracle19c:1521/ORCLPDB1
+2025-12-19 04:53:53 INFO  00000 timezone: +00:00, db-timezone: +00:00, log-timezone: +00:00, host-timezone: +00:00
+2025-12-19 04:53:53 INFO  00000 Replicator for: ORA1 is shutting down
+2025-12-19 04:53:53 INFO  00000 Memory HWM: 32MB, builder HWM: 1MB, misc HWM: 0MB, parser HWM: 0MB, disk read buffer HWM: 0MB, transaction HWM: 0MB, swapped: 0MB, disk write buffer HWM: 0MB
+2025-12-19 04:53:53 ERROR 10014 stacktrace for thread: 140258463135424
+/lib/x86_64-linux-gnu/libasan.so.8(+0x7e403) [0x7f9077fee403]
+./OpenLogReplicator(+0x1b38235) [0x55a04b143235]
+./OpenLogReplicator(+0x1a63efb) [0x55a04b06eefb]
+./OpenLogReplicator(+0x1a63f52) [0x55a04b06ef52]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3fdf0) [0x7f9071c7adf0]
+/opt/librdkafka/lib/librdkafka.so.1(rd_kafka_fatal_error+0xb) [0x7f90729a29bb]
+./OpenLogReplicator(+0x24464bc) [0x55a04ba514bc]
+./OpenLogReplicator(+0x2446bae) [0x55a04ba51bae]
+./OpenLogReplicator(+0x19f986d) [0x55a04b00486d]
+./OpenLogReplicator(+0x1a658ed) [0x55a04b0708ed]
+./OpenLogReplicator(+0x1a6760f) [0x55a04b07260f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29ca8) [0x7f9071c64ca8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x85) [0x7f9071c64d65]
+./OpenLogReplicator(+0x19f8941) [0x55a04b003941]
+
+2025-12-21 16:18:02 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 16:18:02 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 16:18:02 INFO  00000 adding source: SOURCE
+2025-12-21 16:18:02 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 16:18:03 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 16:18:03 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 16:18:03 INFO  00000 adding source: SOURCE
+2025-12-21 16:18:03 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 16:18:03 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 16:18:03 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 16:18:03 INFO  00000 adding source: SOURCE
+2025-12-21 16:18:03 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 16:18:04 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 16:18:04 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 16:18:04 INFO  00000 adding source: SOURCE
+2025-12-21 16:18:04 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 16:18:05 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 16:18:05 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 16:18:05 INFO  00000 adding source: SOURCE
+2025-12-21 16:18:05 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 16:18:07 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 16:18:07 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 16:18:07 INFO  00000 adding source: SOURCE
+2025-12-21 16:18:07 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 16:18:10 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 16:18:10 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 16:18:10 INFO  00000 adding source: SOURCE
+2025-12-21 16:18:10 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 16:18:17 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 16:18:17 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 16:18:17 INFO  00000 adding source: SOURCE
+2025-12-21 16:18:17 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 16:18:30 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 16:18:30 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 16:18:30 INFO  00000 adding source: SOURCE
+2025-12-21 16:18:30 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 16:18:56 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 16:18:56 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 16:18:56 INFO  00000 adding source: SOURCE
+2025-12-21 16:18:56 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 16:19:47 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 16:19:47 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 16:19:47 INFO  00000 adding source: SOURCE
+2025-12-21 16:19:47 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 16:20:10 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 16:20:10 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 16:20:10 INFO  00000 adding source: SOURCE
+2025-12-21 16:20:10 INFO  00000 adding target: DEBEZIUM
+2025-12-21 16:20:10 INFO  00000 writer is starting with Writer: Network:0.0.0.0:8080
+2025-12-21 16:20:10 WARN  10003 file: checkpoint/ORACLE-chkpt.json - get metadata returned: No such file or directory
+2025-12-21 16:35:37 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 16:35:37 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 16:35:37 INFO  00000 adding source: SOURCE
+2025-12-21 16:35:37 INFO  00000 adding target: DEBEZIUM
+2025-12-21 16:35:37 INFO  00000 writer is starting with Writer: Network:0.0.0.0:8080
+2025-12-21 16:35:37 WARN  10003 file: checkpoint/ORACLE-chkpt.json - get metadata returned: No such file or directory
+2025-12-21 16:57:29 INFO  00000 config file changed, reloading
+2025-12-21 16:57:29 INFO  00000 scanning objects which match the configuration file
+2025-12-21 16:57:32 INFO  00000 config file changed, reloading
+2025-12-21 16:57:32 ERROR 20001 file: scripts/OpenLogReplicator.json offset: 0 - parse error: Invalid value.
+2025-12-21 16:57:37 INFO  00000 config file changed, reloading
+2025-12-21 16:57:37 INFO  00000 scanning objects which match the configuration file
+2025-12-21 16:57:39 INFO  00000 config file changed, reloading
+2025-12-21 16:57:39 INFO  00000 scanning objects which match the configuration file
+2025-12-21 16:57:48 INFO  00000 config file changed, reloading
+2025-12-21 16:57:48 INFO  00000 scanning objects which match the configuration file
+2025-12-21 17:09:03 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 17:09:03 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 17:09:03 INFO  00000 adding source: SOURCE
+2025-12-21 17:09:03 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 17:09:04 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 17:09:04 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 17:09:04 INFO  00000 adding source: SOURCE
+2025-12-21 17:09:04 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 17:09:05 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 17:09:05 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 17:09:05 INFO  00000 adding source: SOURCE
+2025-12-21 17:09:05 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 17:09:06 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 17:09:06 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 17:09:06 INFO  00000 adding source: SOURCE
+2025-12-21 17:09:06 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 17:09:07 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 17:09:07 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 17:09:07 INFO  00000 adding source: SOURCE
+2025-12-21 17:09:07 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 17:09:10 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 17:09:10 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 17:09:10 INFO  00000 adding source: SOURCE
+2025-12-21 17:09:10 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 17:09:13 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 17:09:13 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 17:09:13 INFO  00000 adding source: SOURCE
+2025-12-21 17:09:13 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 17:09:20 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 17:09:20 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 17:09:20 INFO  00000 adding source: SOURCE
+2025-12-21 17:09:20 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 17:09:33 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 17:09:33 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 17:09:33 INFO  00000 adding source: SOURCE
+2025-12-21 17:09:33 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 17:09:59 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 17:09:59 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 17:09:59 INFO  00000 adding source: SOURCE
+2025-12-21 17:09:59 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 17:10:51 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 17:10:51 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 17:10:51 INFO  00000 adding source: SOURCE
+2025-12-21 17:10:51 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 17:11:51 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 17:11:51 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 17:11:51 INFO  00000 adding source: SOURCE
+2025-12-21 17:11:51 ERROR 20003 file: scripts/OpenLogReplicator.json - parse error, attribute scn-all not expected
+2025-12-21 17:13:24 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-21 17:13:24 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-21 17:13:24 INFO  00000 adding source: SOURCE
+2025-12-21 17:13:24 INFO  00000 adding target: DEBEZIUM
+2025-12-21 17:13:24 INFO  00000 writer is starting with Writer: Network:0.0.0.0:8080
+2025-12-21 17:13:24 WARN  10003 file: checkpoint/ORACLE-chkpt.json - get metadata returned: No such file or directory
+2025-12-21 17:27:16 WARN  60035 unknown database requested, got: SOURCE, expected: ORACLE

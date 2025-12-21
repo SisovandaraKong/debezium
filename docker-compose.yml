@@ -1,19 +1,79 @@
 services:
 
-  # cdc-oracle:
-  #   image: container-registry.oracle.com/database/express:21.3.0-xe
-  #   container_name: cdc-oracle
+# Updated docker-compose.yml - Oracle service for CDC
+
+  # oracle:
+  #   image: oracle/database:19.3.0-ee
+  #   container_name: oracle19c
   #   ports:
   #     - "1521:1521"
+  #     - "5500:5500"
   #   environment:
-  #     ORACLE_PWD: Admin123
+  #     ORACLE_SID: ORCLCDB
+  #     ORACLE_PDB: ORCLPDB1
+  #     ORACLE_PWD: oracle
   #     ORACLE_CHARACTERSET: AL32UTF8
-  #     ORACLE_EDITION: EXPRESS
+  #     ENABLE_ARCHIVELOG: "true"
   #   volumes:
-  #     - ./init-scripts:/opt/oracle/scripts/startup
-  #     - oracle_data_cdc:/opt/oracle/oradata
+  #     - oracle-data:/opt/oracle/oradata
+  #     - ./oracle-init-scripts:/opt/oracle/scripts/startup
+  #   shm_size: 2g
   #   networks:
-  #     - kafka-fullstack
+  #     - kafka-fullstack  
+  #   healthcheck:
+  #     test: ["CMD", "bash", "-c", "echo 'SELECT 1 FROM dual;' | sqlplus -s sys/oracle@localhost:1521/ORCLCDB as sysdba | grep -q 1"]
+  #     interval: 30s
+  #     timeout: 10s
+  #     retries: 10
+  #     start_period: 180s
+
+  oracle:
+    image: oracle/database:19.3.0-ee
+    container_name: oracle19c
+    ports:
+      - "1521:1521"
+      - "5500:5500"
+    environment:
+      ORACLE_SID: ORCLCDB
+      ORACLE_PDB: ORCLPDB1
+      ORACLE_PWD: oracle
+      ORACLE_CHARACTERSET: AL32UTF8
+      ENABLE_ARCHIVELOG: "true"
+      ENABLE_FORCE_LOGGING: "true"  # Add this for OpenLogReplicator
+    volumes:
+      - oracle-data:/opt/oracle/oradata
+      - oracle-fra:/opt/oracle/fra  # Add FRA volume
+      - ./oracle-init-scripts:/opt/oracle/scripts/startup
+    shm_size: 2g
+    networks:
+      - kafka-fullstack  
+    healthcheck:
+      test: ["CMD", "bash", "-c", "echo 'SELECT 1 FROM dual;' | sqlplus -s sys/oracle as sysdba | grep -q 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+      start_period: 180s
+
+  openlogreplicator:
+    image: bersler/openlogreplicator:tutorial
+    container_name: openlogreplicator
+    ports:
+      - "8080:8080"
+    depends_on:
+      oracle:
+        condition: service_healthy
+    volumes:
+      - ./checkpoint:/opt/OpenLogReplicator/checkpoint
+      - oracle-fra:/opt/fra  # Mount same FRA volume
+      - ./log:/opt/OpenLogReplicator/log
+      - oracle-data:/opt/oradata  # Mount same data volume
+      - ./output:/opt/output
+      - ./scripts:/opt/OpenLogReplicator/scripts
+      - ./secrets:/etc/kafka/secrets
+    networks:
+      - kafka-fullstack
+    restart: unless-stopped
+
 
   cdc-postgres:
     image: postgres:16
@@ -226,7 +286,7 @@ services:
       STATUS_STORAGE_TOPIC: cdc_connect_status
 
       # Make sure you set this for the correct path that the library files for InstantClient have been installed into
-      LD_LIBRARY_PATH: '/usr/share/java/debezium-connector-oracle/instantclient_19_6/'
+      LD_LIBRARY_PATH: '/usr/share/java/debezium-connector-oracle/instantclient_21_12/'
       
       # Schema Registry Integration:
       KEY_CONVERTER: io.confluent.connect.avro.AvroConverter #### add when add avro schema registry
@@ -363,6 +423,8 @@ volumes:
   debezium_data:
   schema_registry_data:
   mongo_data_cdc:
+  oracle-data:
+  oracle-fra: 
 
 
 networks:
