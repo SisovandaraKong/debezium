@@ -1143,3 +1143,21 @@
 2025-12-21 17:13:24 INFO  00000 writer is starting with Writer: Network:0.0.0.0:8080
 2025-12-21 17:13:24 WARN  10003 file: checkpoint/ORACLE-chkpt.json - get metadata returned: No such file or directory
 2025-12-21 17:27:16 WARN  60035 unknown database requested, got: SOURCE, expected: ORACLE
+2025-12-22 07:21:39 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-22 07:21:39 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-22 07:21:40 INFO  00000 adding source: SOURCE
+2025-12-22 07:21:40 INFO  00000 adding target: DEBEZIUM
+2025-12-22 07:21:40 INFO  00000 writer is starting with Writer: Network:0.0.0.0:8080
+2025-12-22 07:21:40 WARN  10003 file: checkpoint/ORACLE-chkpt.json - get metadata returned: No such file or directory
+2025-12-22 08:36:01 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-22 08:36:01 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-22 08:36:01 INFO  00000 adding source: SOURCE
+2025-12-22 08:36:02 INFO  00000 adding target: DEBEZIUM
+2025-12-22 08:36:02 INFO  00000 writer is starting with Writer: Network:0.0.0.0:8080
+2025-12-22 08:36:02 WARN  10003 file: checkpoint/ORACLE-chkpt.json - get metadata returned: No such file or directory
+2025-12-22 15:05:46 INFO  00000 OpenLogReplicator v1.8.7 (C) 2018-2025 by Adam Leszczynski (aleszczynski@bersler.com), see LICENSE file for licensing information
+2025-12-22 15:05:46 INFO  00000 arch: x86_64, build-arch: , system: Linux, release: 6.12.54-linuxkit, build: Debug, compiled: 2025-12-19 04:21, modules: Kafka OCI Prometheus Protobuf
+2025-12-22 15:05:46 INFO  00000 adding source: SOURCE
+2025-12-22 15:05:46 INFO  00000 adding target: DEBEZIUM
+2025-12-22 15:05:46 INFO  00000 writer is starting with Writer: Network:0.0.0.0:8080
+2025-12-22 15:05:46 WARN  10003 file: checkpoint/ORACLE-chkpt.json - get metadata returned: No such file or directory

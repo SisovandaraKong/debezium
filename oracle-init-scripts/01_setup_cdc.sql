@@ -180,7 +180,7 @@ FROM ALL_TABLES
 WHERE owner = 'C##DBZUSER' 
   AND table_name = 'CUSTOMERS';
 
--- Verify supplemental logging on table
+-- Verify supplemental logging on table // Keystore password
 SELECT 'Table Supplemental Logging:' AS info FROM DUAL;
 SELECT table_name, log_group_name, log_group_type 
 FROM ALL_LOG_GROUPS 
