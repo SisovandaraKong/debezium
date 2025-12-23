@@ -4,7 +4,7 @@
   "source": [
     {
       "alias": "SOURCE",
-      "name": "ORACLE",
+      "name": "SOURCE",
       "reader": {
         "type": "online",
         "path-mapping": [

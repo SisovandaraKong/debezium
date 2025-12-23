@@ -74,6 +74,84 @@ services:
       - kafka-fullstack
     restart: unless-stopped
 
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.11.0
+    container_name: elasticsearch
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    environment:
+      # Cluster settings
+      - node.name=elasticsearch
+      - cluster.name=cdc-cluster
+      - discovery.type=single-node
+      
+      # Memory settings (important!)
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      
+      # Security settings (disable for testing)
+      - xpack.security.enabled=false
+      - xpack.security.http.ssl.enabled=false
+      - xpack.security.transport.ssl.enabled=false
+      
+      # Monitoring
+      - xpack.monitoring.collection.enabled=true
+    volumes:
+      - elasticsearch_data:/usr/share/elasticsearch/data
+    networks:
+      - kafka-fullstack
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:9200/_cluster/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+      nofile:
+        soft: 65536
+        hard: 65536
+    deploy:
+      resources:
+        limits:
+          memory: 1G
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.11.0
+    container_name: kibana
+    ports:
+      - "5601:5601"
+    environment:
+      # Elasticsearch connection
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+      
+      # Kibana settings
+      - SERVER_NAME=kibana
+      - SERVER_HOST=0.0.0.0
+      
+      # Monitoring
+      - MONITORING_ENABLED=true
+      - XPACK_MONITORING_UI_CONTAINER_ELASTICSEARCH_ENABLED=true
+    volumes:
+      - kibana_data:/usr/share/kibana/data
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    networks:
+      - kafka-fullstack
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:5601/api/status || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+    deploy:
+      resources:
+        limits:
+          memory: 512M
+
 
   cdc-postgres:
     image: postgres:16
@@ -425,9 +503,11 @@ volumes:
   mongo_data_cdc:
   oracle-data:
   oracle-fra: 
+  elasticsearch_data:   
+  kibana_data:   
 
 
 networks:
   kafka-fullstack:
-    # external: true            # uncomment if you use external network
-    # name: kafka-fullstack     # uncomment if you use external network
+    # external: true           
+    # name: kafka-fullstack    
