@@ -1,0 +1,10 @@
+{"database":"SOURCE","scn":2160404,"resetlogs":1220633333,"activation":2991717234,"time":1220635053,"seq":7,"offset":3220480,"big-endian":0,"context":"ORCLCDB","con-id":3,"con-name":"ORCLPDB1","db-timezone":"+00:00","db-recovery-file-dest":"","db-block-checksum":"TYPICAL","log-archive-dest":"","log-archive-format":"%t_%s_%r.dbf","nls-character-set":"AL32UTF8","nls-nchar-character-set":"AL16UTF16","supp-log-db-primary":0,"supp-log-db-all":1,
+"online-redo":[
+{"group":1,"path":["/opt/oracle/oradata/ORCLCDB/redo01.log"]},
+{"group":2,"path":["/opt/oracle/oradata/ORCLCDB/redo02.log"]},
+{"group":3,"path":["/opt/oracle/oradata/ORCLCDB/redo03.log"]}],
+"incarnations":[
+{"incarnation":1,"resetlogs-scn":1,"prior-resetlogs-scn":0,"status":"PARENT","resetlogs":1005785759,"prior-incarnation":0},
+{"incarnation":2,"resetlogs-scn":1920977,"prior-resetlogs-scn":1,"status":"CURRENT","resetlogs":1220633333,"prior-incarnation":1}],
+"users":[],
+"schema-ref-scn":2158082}
